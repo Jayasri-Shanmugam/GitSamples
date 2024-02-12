@@ -1,0 +1,2 @@
+This is feature for file 2.
+Updated version
